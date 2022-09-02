@@ -1,16 +1,15 @@
 ## Hi there I'm Javi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-A cybersecurity enthusiastic. I have been working the last three years in diferent type of cibersecurity projects. I studied a higher degree in Computer Systems Administration with Cybersecurity. After that I focused only on cybersecurity and did a master's degree focused only on cybersecurity. I have also completed several certifications such as CCNA or OSCP.
+A cybersecurity enthusiastic.:computer: I have been working the last three years in diferent type of cibersecurity projects. I studied a higher degree in Computer Systems Administration with Cybersecurity. After that I focused only on cybersecurity and did a master's degree focused only on cybersecurity. I have also completed several certifications such as CCNA or OSCP.
 
-### Currently I'm still consolidating and learning the following subjects
+### Experience in
 
-- :unlock: Red Team
-- :lock: Blue Team
-- :computer: Scripting (Python, bash)
+- Red Team :closed_lock_with_key:
+- Pentesting :unlock:
+- Thread Hunting
+- SOC
 
-## 2020 GOALS
-- [ ] eJPT 
-- [x] Master Cybersecurity
+
 
 
 ### Social Networks:
