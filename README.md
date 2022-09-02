@@ -35,6 +35,6 @@
 <img align="left" alt="Python" width="26px" src="https://sitiobigdata.com/wp-content/uploads/2018/10/importar-datos-en-python.png" />
 <img align="left" alt="GO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
 
----
+
 
 [linkedin]: https://www.linkedin.com/in/javier-garcia-martinez-de-carnero/
